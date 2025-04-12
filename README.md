@@ -18,3 +18,6 @@ A user-friendly desktop tool to define and save goal regions on football pitch i
 git clone https://github.com/yourusername/goalzone-configurator.git
 cd goalzone-configurator
 pip install -r requirements.txt  # Includes opencv-python, Pillow, and tkinter
+
+## Demo
+[![Demo Video](./GoalZone-Test.mp4)](./GoalZone-Test.mp4)
