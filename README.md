@@ -15,7 +15,7 @@ A user-friendly desktop tool to define and save goal regions on football pitch i
 
 ## Demo  
 <video controls width="600">
-  <source src="https://yourusername.github.io/goalzone-configurator/GoalZone-Test.mp4" type="video/mp4">
+  <source src="https://sree0211.github.io/goalzone-configurator/GoalZone-Test.mp4" type="video/mp4">
 </video>
 
 ## **Installation**  
