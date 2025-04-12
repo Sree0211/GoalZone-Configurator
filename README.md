@@ -13,10 +13,8 @@ A user-friendly desktop tool to define and save goal regions on football pitch i
 - **Image Processing**: OpenCV  
 - **Data Serialization**: JSON  
 
-## Demo  
-<video controls width="600">
-  <source src="https://sree0211.github.io/goalzone-configurator/GoalZone-Test.mp4" type="video/mp4">
-</video>
+## Demo
+[Download or View Video](https://sree0211.github.io/goalzone-configurator/GoalZone-Test.mp4)
 
 ## **Installation**  
 ```bash
